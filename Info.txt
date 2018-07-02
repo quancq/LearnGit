@@ -1,3 +1,4 @@
 Test thử file mới
 Đây là dòng thứ 2
 Thêm dòng thứ 3
+dòng 4
